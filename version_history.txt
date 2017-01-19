@@ -1,0 +1,10 @@
+Version 0.1
+Added comments
+Added this file
+Added 1hz baseline output for stationary vehicle
+Tweaked interval checking
+
+Version 0.1
+Initial upload to github
+Simple arduino based test harness created to output square waves for the speedo calibration arduino to work with
+Modified Tim M'Guinness' 944 Speedo Calibrator code to work with a digital input, with pulldown resistor
